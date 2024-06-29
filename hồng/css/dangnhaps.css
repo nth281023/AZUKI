@@ -115,11 +115,6 @@ iframe {
   margin-bottom: 23px;
 }
 
-
-
-
-
-
 .label-input100 {
   font-size: 15px;
   color: #555555;
@@ -272,4 +267,14 @@ iframe {
 	display: flex;
 	-webkit-flex-direction: column;
 	align-items: center;
+}
+/* quen mat khau */
+.flex-col-c1{
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.login100-form-1{
+  width: 100%;
+  line-height: 2;
 }

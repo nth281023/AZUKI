@@ -233,7 +233,7 @@ nav.danhmuc {
 .ftthoongtin {
   width: 300px;
   justify-content: space-between;
-  align-items: ;
+  align-items: center;
 }
 .chinhsach {
   width: 300px;
@@ -474,12 +474,12 @@ nav.danhmuc {
 .mtsp a:hover {
   color: rgb(220, 220, 14);
 }
-
+/* 
 .product:hover .imgsanpham {
   width: 260px;
   height: 280px;
   box-shadow: 0px 0px 20px black;
-}
+} */
 .tieudetintuc {
   width: 350px;
 }

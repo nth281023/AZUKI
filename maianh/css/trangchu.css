@@ -453,10 +453,10 @@
   .product:hover {
     box-shadow: 0px 0px 20px black;
   }
-  .product:hover .imgsanpham {
+  /* .product:hover .imgsanpham {
     width: 260px;
     height: 280px;
-  }
+  } */
   .tieudetintuc {
     width: 350px;
   }
